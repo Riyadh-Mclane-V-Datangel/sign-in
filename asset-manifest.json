@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sign-in/static/css/main.1e23a323.chunk.css",
+    "main.js": "/sign-in/static/js/main.6732baba.chunk.js",
+    "main.js.map": "/sign-in/static/js/main.6732baba.chunk.js.map",
+    "runtime~main.js": "/sign-in/static/js/runtime~main.71a58542.js",
+    "runtime~main.js.map": "/sign-in/static/js/runtime~main.71a58542.js.map",
+    "static/js/2.734bbb90.chunk.js": "/sign-in/static/js/2.734bbb90.chunk.js",
+    "static/js/2.734bbb90.chunk.js.map": "/sign-in/static/js/2.734bbb90.chunk.js.map",
+    "static/js/3.68d536b4.chunk.js": "/sign-in/static/js/3.68d536b4.chunk.js",
+    "static/js/3.68d536b4.chunk.js.map": "/sign-in/static/js/3.68d536b4.chunk.js.map",
+    "index.html": "/sign-in/index.html",
+    "precache-manifest.91f68f9a78afafcd5470a14de061558e.js": "/sign-in/precache-manifest.91f68f9a78afafcd5470a14de061558e.js",
+    "service-worker.js": "/sign-in/service-worker.js",
+    "static/css/main.1e23a323.chunk.css.map": "/sign-in/static/css/main.1e23a323.chunk.css.map",
+    "static/media/InterTight-Light.ttf": "/sign-in/static/media/InterTight-Light.a838133e.ttf",
+    "static/media/App.css": "/sign-in/static/media/background.f1d44d5a.jpg",
+    "static/media/irislogo.png": "/sign-in/static/media/irislogo.e9925c5e.png",
+    "static/media/logo.png": "/sign-in/static/media/logo.13a95033.png"
+  }
+}
